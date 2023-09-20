@@ -12,4 +12,4 @@ My research interests are concerned with how phonetic variation at multiple leve
 
 I completed my PhD in the [Department of Linguistics](https://www.mcgill.ca/linguistics/) at McGill University, and previously developed speech synthesis software at [Resemble AI](https://www.resemble.ai/) and [Amazon](http://amazon.com/).
 
-You can find my CV [here]({{ site.url}}/JamesTannerCV.pdf).
+You can find my CV [here](/JamesTannerCV.pdf).
