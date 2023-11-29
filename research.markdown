@@ -9,7 +9,8 @@ permalink: /publications/
 **Prosodic and durational influences on the formant dynamics of Japanese vowels**  
 Tanner, J.  
 *JASA Express Letters*, 3 (8)  
-DOI: [10.1121/10.0020547](https://doi.org/10.1121/10.0020547)
+DOI: [10.1121/10.0020547](https://doi.org/10.1121/10.0020547)  
+[Code & data](https://osf.io/3u2ks/)
 
 ## 2022
 **Multidimensional acoustic variation in vowels across English dialects**  
@@ -21,7 +22,8 @@ DOI: [10.18653/v1/2022.sigmorphon-1.8](https://doi.org/10.18653/v1/2022.sigmorph
 **Structured speaker variability in Japanese stops: Relationships within versus across cues to stop voicing**  
 Tanner, J., Sonderegger, M., Stuart-Smith, J.  
 *Journal of the Acoustical Society of America*, 148 (2), 793-804  
-DOI: [10.1121/10.0001734](https://doi.org/10.1121/10.0001734)
+DOI: [10.1121/10.0001734](https://doi.org/10.1121/10.0001734)  
+[Code & data](https://osf.io/grw25/)
 
 **Structured phonetic variation across dialects and speakers of English and Japanese**  
 Tanner, J  
@@ -31,7 +33,8 @@ PhD Thesis, *McGill University*
 **Towards "English" phonetics: variability in the pre-consonantal voicing effect across English dialects and speakers**  
 Tanner, J., Sonderegger, M., Stuart-Smith, J., Fruehwald, J.  
 *Frontiers in Artificial Intelligence* 3 (38)  
-DOI: [10.3389/frai.2020.00038](https://doi.org/10.3389/frai.2020.00038)
+DOI: [10.3389/frai.2020.00038](https://doi.org/10.3389/frai.2020.00038)  
+[Code](https://osf.io/4p72g/)
 
 ## 2019
 **Structured speaker variability in spontaneous Japanese stop contrast production**  
