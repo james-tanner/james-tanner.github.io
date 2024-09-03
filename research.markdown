@@ -4,6 +4,11 @@ title: Publications
 permalink: /publications/
 ---
 
+## 2024
+**Exploring the anatomy of articulation rate in spontaneous English speech: relationships between utterance length effects and social factors**
+Tanner, J., Sonderegger, M., Stuart-Smith, J., Kendall, T., Mielke, J., Dodsworth, R., Thomas, E.
+*Proceedings of Interspeech 2024* 467-471.
+DOI:[10.21437/Interspeech.2024-1154](https://doi.org/10.21437/Interspeech.2024-1154)
 
 ## 2023
 **Prosodic and durational influences on the formant dynamics of Japanese vowels**  
