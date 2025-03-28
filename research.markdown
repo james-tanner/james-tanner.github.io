@@ -5,8 +5,8 @@ permalink: /publications/
 ---
 
 ## Accepted
-**Speech rate effects on the realisation of multiple acoustic cues to the Japanese stop voicing contrast**
-Tanner, J., Igarashi, Y., Maekawa, K.
+**Speech rate effects on the realisation of multiple acoustic cues to the Japanese stop voicing contrast**  
+Tanner, J., Igarashi, Y., Maekawa, K.  
 *Journal of the Acoustical Society of America*
 
 ## 2024
