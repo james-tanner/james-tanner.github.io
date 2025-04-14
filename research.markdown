@@ -4,10 +4,12 @@ title: Publications
 permalink: /publications/
 ---
 
-## Accepted
+## 2025
 **Speech rate effects on the realisation of multiple acoustic cues to the Japanese stop voicing contrast**  
 Tanner, J., Igarashi, Y., Maekawa, K.  
-*Journal of the Acoustical Society of America*
+*Journal of the Acoustical Society of America*  
+DOI: [10.1121/10.0036393](https://doi.org/10.1121/10.0036393)  
+[Code & data](https://osf.io/ap7v6/)
 
 ## 2024
 **Exploring the anatomy of articulation rate in spontaneous English speech: relationships between utterance length effects and social factors**  
