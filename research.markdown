@@ -10,6 +10,10 @@ Tanner, J., Sonderegger, M., Stuart-Smith, J., Mielke, J., Kendall, T.
 *Interspeech 2025*  
 Preprint DOI: [10.48550/arXiv.2505.23688](https://doi.org/10.48550/arXiv.2505.23688)
 
+**A semi-automatic pipeline for transcribing and segmenting child speech**  
+Christodoulidou, P., Tanner, J., Stuart-Smith, J., McAuliffe, M.„ Murali, M., Smith, A., Taylor, L., Cleland, J, and Kuschmann A.  
+*Interspeech 2025*
+
 ## 2025
 **Speech rate effects on the realisation of multiple acoustic cues to the Japanese stop voicing contrast**  
 Tanner, J., Igarashi, Y., Maekawa, K.  
