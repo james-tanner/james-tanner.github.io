@@ -4,6 +4,12 @@ title: Publications
 permalink: /publications/
 ---
 
+## Accepted  
+**Automatic classification of stop realisation with wav2vec2.0**  
+Tanner, J., Sonderegger, M., Stuart-Smith, J., Mielke, J., Kendall, T.  
+*Interspeech 2025*  
+Preprint DOI: [10.48550/arXiv.2505.23688](https://doi.org/10.48550/arXiv.2505.23688)
+
 ## 2025
 **Speech rate effects on the realisation of multiple acoustic cues to the Japanese stop voicing contrast**  
 Tanner, J., Igarashi, Y., Maekawa, K.  
