@@ -4,17 +4,24 @@ title: Publications
 permalink: /publications/
 ---
 
-## Accepted  
+## 2025
+**Language-specific phonetic realisation of stop voicing contrasts in English and Japanese synthesised speech**  
+Tanner, J., Shinohara, Y., Chiu, F.  
+*JASA Express Letters*, 5 (8), 085202.  
+DOI: [10.1121/10.0039066](https://doi.org/10.1121/10.0039066)  
+[Code & data](https://osf.io/3gdvt/)
+
 **Automatic classification of stop realisation with wav2vec2.0**  
 Tanner, J., Sonderegger, M., Stuart-Smith, J., Mielke, J., Kendall, T.  
-*Interspeech 2025*  
-Preprint DOI: [10.48550/arXiv.2505.23688](https://doi.org/10.48550/arXiv.2505.23688)
+*Proceedings of Interspeech 2025*, 2270-2274.  
+DOI: [10.21437/Interspeech.2025-491](https://www.isca-archive.org/interspeech_2025/tanner25_interspeech.html)  
+[Code & data](https://osf.io/fz4c2/)
 
 **A semi-automatic pipeline for transcribing and segmenting child speech**  
 Christodoulidou, P., Tanner, J., Stuart-Smith, J., McAuliffe, M.„ Murali, M., Smith, A., Taylor, L., Cleland, J, and Kuschmann A.  
-*Interspeech 2025*
+*Proceedings of Interspeech 2025*, 4278-4282.  
+DOI: [10.21437/Interspeech.2025-1030](https://www.isca-archive.org/interspeech_2025/christodoulidou25_interspeech.html)  
 
-## 2025
 **Speech rate effects on the realisation of multiple acoustic cues to the Japanese stop voicing contrast**  
 Tanner, J., Igarashi, Y., Maekawa, K.  
 *Journal of the Acoustical Society of America*, 157 (4), 2624-2635  
@@ -31,7 +38,7 @@ DOI: [10.21437/Interspeech.2024-1154](https://doi.org/10.21437/Interspeech.2024-
 ## 2023
 **Prosodic and durational influences on the formant dynamics of Japanese vowels**  
 Tanner, J.  
-*JASA Express Letters*, 3 (8)  
+*JASA Express Letters*, 3 (8), 085202.  
 DOI: [10.1121/10.0020547](https://doi.org/10.1121/10.0020547)  
 [Code & data](https://osf.io/3u2ks/)
 
