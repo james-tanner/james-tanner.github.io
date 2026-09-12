@@ -3,6 +3,12 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
+## 2026
+**Constraints on articulation rate: utterance length, age, and gender across North American and British Isles Englishes**  
+Tanner, J., Sonderegger, M., Stuart-Smith, J., Kendall, T., Mielke, J., Dodsworth, R., Thomas, E.  
+*Journal of Phonetics*, 118, 101533  
+DOI: [10.1016/j.wocn.2026.101533](https://doi.org/10.1016/j.wocn.2026.101533)  
+[Code & data](https://osf.io/gtk2y)
 
 ## 2025
 **Language-specific phonetic realisation of stop voicing contrasts in English and Japanese synthesised speech**  
